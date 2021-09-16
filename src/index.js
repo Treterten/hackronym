@@ -11,7 +11,7 @@
 const fs = require('fs');
 const DatabaseService = require('./services/database.js');
 
-const uri = process.env.MONGODB_URI || process.env.MONGO_URI || process.env.MONGODB_URL || process.env.MONGOLAB_URI || process.env.MONGOHQ_URL || 'mongodb://localhost/plusPlus';
+const uri = process.env.HACRONYM_DB_URI|| 'mongodb://localhost/plusPlus';
 
 
 module.exports = async function(robot) {
