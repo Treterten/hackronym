@@ -1,0 +1,618 @@
+{
+  "A11Y": {
+    "meaning": "Accessibility",
+    "category": "Numeronym"
+  },
+  "ABAC": {
+    "meaning": "Account Development Representative",
+    "category": "Auth0 Roles"
+  },
+  "ADR": {
+    "meaning": "Account Manager",
+    "category": "Auth0 Roles"
+  },
+  "AFAIK": {
+    "meaning": "Act on Protection of Personal Information (Japan)",
+    "category": "Security and Compliance"
+  },
+  "ALB": {
+    "meaning": "Amazon Machine Image",
+    "category": "General Technology"
+  },
+  "AM": {
+    "meaning": "Americas - North, Central, and South",
+    "category": "Business"
+  },
+  "AMER": {
+    "meaning": "Annual Recurring Revenue",
+    "category": "Business"
+  },
+  "AMI": {
+    "meaning": "Application Load Balancer",
+    "category": "General Technology"
+  },
+  "AMR": {
+    "meaning": "Application Program Interface",
+    "category": "General Technology"
+  },
+  "APAC": {
+    "meaning": "As Far As I Know",
+    "category": "Cultural"
+  },
+  "API": {
+    "meaning": "Asia Pacific",
+    "category": "Business"
+  },
+  "APPI": {
+    "meaning": "Attribute Based Access Control",
+    "category": "Identity Terminology"
+  },
+  "ARR": {
+    "meaning": "Auth0 Technical Resource",
+    "category": "Business"
+  },
+  "ATR": {
+    "meaning": "Authentication Method Reference",
+    "category": "Identity Terminology"
+  },
+  "B2B": {
+    "meaning": "Bcrypt as a Service",
+    "category": "Auth0 Technology"
+  },
+  "B2C": {
+    "meaning": "Breached Password Detection",
+    "category": "Auth0 Technology"
+  },
+  "B2E": {
+    "meaning": "Brute Force Protection",
+    "category": "Auth0 Technology"
+  },
+  "BaaS": {
+    "meaning": "Bullshit, Assholes, Politics",
+    "category": "Business"
+  },
+  "BAP": {
+    "meaning": "Business to Business",
+    "category": "Business"
+  },
+  "BFP": {
+    "meaning": "Business to Consumer",
+    "category": "Business"
+  },
+  "BPD": {
+    "meaning": "Business to Employee",
+    "category": "Business"
+  },
+  "CAB": {
+    "meaning": "Canadian Anti-Spam Legislation",
+    "category": "Security and Compliance"
+  },
+  "CAE": {
+    "meaning": "Capture the flag",
+    "category": "General Technology"
+  },
+  "CASL": {
+    "meaning": "Center for Internet Security",
+    "category": "General Technology"
+  },
+  "CDC": {
+    "meaning": "Change Approval/Advisory Board",
+    "category": "General Technology"
+  },
+  "CF": {
+    "meaning": "Client to Authenticator Protocols",
+    "category": "Identity Terminology"
+  },
+  "CIAM": {
+    "meaning": "Cloud Security Alliance",
+    "category": "Security and Compliance"
+  },
+  "CIS": {
+    "meaning": "CloudFlare",
+    "category": "Platform"
+  },
+  "CMRR": {
+    "meaning": "Committed Monthly Recurring Revenue",
+    "category": "Business"
+  },
+  "CMS": {
+    "meaning": "Consumer (Customer) Identity and Access Management",
+    "category": "Identity Terminology"
+  },
+  "CSA": {
+    "meaning": "Container Service Pipeline",
+    "category": "Platform"
+  },
+  "CSP": {
+    "meaning": "Corporate Account Executive",
+    "category": "Auth0 Roles"
+  },
+  "CTAP": {
+    "meaning": "Custom database connection",
+    "category": "Auth0 Technology"
+  },
+  "CTF": {
+    "meaning": "Customer Success Architect",
+    "category": "Auth0 Roles"
+  },
+  "DNA": {
+    "meaning": "Data Warehouse",
+    "category": "General Technology"
+  },
+  "DR": {
+    "meaning": "Decision Record, Disaster Recovery",
+    "category": "Engineering"
+  },
+  "DSA": {
+    "meaning": "Developer Experience",
+    "category": "General Technology"
+  },
+  "DSE": {
+    "meaning": "Developer Support Associate",
+    "category": "Auth0 Roles"
+  },
+  "DWH": {
+    "meaning": "Developer Support Engineer",
+    "category": "Auth0 Roles"
+  },
+  "DX": {
+    "meaning": "Disaster Recovery",
+    "category": "General Technology"
+  },
+  "EA": {
+    "meaning": "Early Access",
+    "category": "Business"
+  },
+  "EAE": {
+    "meaning": "Elastic Compute Cloud",
+    "category": "General Technology"
+  },
+  "EC2": {
+    "meaning": "Elastic Load Balancer",
+    "category": "General Technology"
+  },
+  "EE": {
+    "meaning": "Employee Resource Group",
+    "category": "Business"
+  },
+  "ELB": {
+    "meaning": "End of Life (for software products)",
+    "category": "Industry"
+  },
+  "ELT": {
+    "meaning": "End of Life (for software products)",
+    "category": "General Technology"
+  },
+  "EMEA": {
+    "meaning": "Engineering Enablement",
+    "category": "Engineering"
+  },
+  "EOL": {
+    "meaning": "Engineering Leadership Team",
+    "category": "Business"
+  },
+  "ERG": {
+    "meaning": "Enterprise Account Executive",
+    "category": "Auth0 Roles"
+  },
+  "ESD": {
+    "meaning": "Europe, Middle East, and Africa",
+    "category": "Business"
+  },
+  "ESM": {
+    "meaning": "Executive Leadership Team",
+    "category": "Business"
+  },
+  "EXLT": {
+    "meaning": "Extended Service Maintenance",
+    "category": "General Technology"
+  },
+  "FIDO": {
+    "meaning": "Fast Identity Online",
+    "category": "Identity Terminology"
+  },
+  "FWIW": {
+    "meaning": "For What It's Worth",
+    "category": "Cultural"
+  },
+  "G2C": {
+    "meaning": "Full: WS-Federation, Web Services Federation.",
+    "category": "Identity Terminology"
+  },
+  "GA": {
+    "meaning": "General Availability",
+    "category": "Business"
+  },
+  "GDPR": {
+    "meaning": "General Data Protection Regulation",
+    "category": "Security and Compliance"
+  },
+  "GEOHA": {
+    "meaning": "Geographic High Availability (Appliance)",
+    "category": "Auth0 Technology"
+  },
+  "HIPAA": {
+    "meaning": "Government to Citizen",
+    "category": "Business"
+  },
+  "HLP": {
+    "meaning": "Health Insurance Portability and Accountability Act",
+    "category": "Security and Compliance"
+  },
+  "HOC": {
+    "meaning": "Higher Order Component",
+    "category": "Front-End Terminology"
+  },
+  "I18N": {
+    "meaning": "Hosted Login Page (Renamed: see ULP)",
+    "category": "Auth0 Products"
+  },
+  "IAM": {
+    "meaning": "Identity and Access Management",
+    "category": "Identity Terminology"
+  },
+  "IdaaS": {
+    "meaning": "Identity as a Service",
+    "category": "Identity Terminology"
+  },
+  "IdP": {
+    "meaning": "Identity Maturity Framework",
+    "category": "Auth0 Process"
+  },
+  "IDP": {
+    "meaning": "Identity Provider",
+    "category": "Identity Terminology"
+  },
+  "IMF": {
+    "meaning": "Identity Provider",
+    "category": "Identity Terminology"
+  },
+  "IMO": {
+    "meaning": "in my opinion",
+    "category": "Cultural"
+  },
+  "ISO": {
+    "meaning": "Intelligent Tracking Protection (Safari Browser)",
+    "category": "General Technology"
+  },
+  "ITP": {
+    "meaning": "International Organization for Standardization",
+    "category": "Security and Compliance"
+  },
+  "JTBD": {
+    "meaning": "Internationalization/internationalisation",
+    "category": "Numeronym"
+  },
+  "JWT": {
+    "meaning": "Job to be done",
+    "category": "Cultural"
+  },
+  "KPI": {
+    "meaning": "JSON Web Token",
+    "category": "Identity Terminology"
+  },
+  "L0": {
+    "meaning": "Key Performance Indicator",
+    "category": "Business"
+  },
+  "L10N": {
+    "meaning": "Latin America",
+    "category": "Business"
+  },
+  "LATAM": {
+    "meaning": "laughing my ass off",
+    "category": "Cultural"
+  },
+  "LDAP": {
+    "meaning": "Layer0",
+    "category": "Platform"
+  },
+  "LGTM": {
+    "meaning": "let me know",
+    "category": "Cultural"
+  },
+  "LMAO": {
+    "meaning": "Lightweight Directory Access Protocol",
+    "category": "Identity Terminology"
+  },
+  "LMK": {
+    "meaning": "Localization/localisation",
+    "category": "Numeronym"
+  },
+  "MAU": {
+    "meaning": "Looks Good To Me",
+    "category": "Cultural"
+  },
+  "MFA": {
+    "meaning": "Major Incident Review",
+    "category": "Business"
+  },
+  "MIR": {
+    "meaning": "Managed Service Engineer",
+    "category": "Auth0 Roles"
+  },
+  "MRR": {
+    "meaning": "Managed Services Engineering",
+    "category": "Auth0 Roles"
+  },
+  "MSE": {
+    "meaning": "Mean Time To Repair",
+    "category": "General Technology"
+  },
+  "MTTR": {
+    "meaning": "Minimum Viable Product",
+    "category": "General Technology"
+  },
+  "MVP": {
+    "meaning": "Monthly active users",
+    "category": "Auth0 Technology"
+  },
+  "NAT": {
+    "meaning": "Multi-Factor Authentication",
+    "category": "Identity Terminology"
+  },
+  "NBD": {
+    "meaning": "Net Revenue Retention / Net Recurring Revenue",
+    "category": "Business"
+  },
+  "NRR": {
+    "meaning": "Network Address Translation",
+    "category": "General Technology"
+  },
+  "OCTO": {
+    "meaning": "Notifiable Data Breaches Scheme (Australia)",
+    "category": "Security and Compliance"
+  },
+  "OIDC": {
+    "meaning": "Objectives and Key Results",
+    "category": "Business"
+  },
+  "OKR": {
+    "meaning": "Office of the CTO",
+    "category": "Business"
+  },
+  "OLT": {
+    "meaning": "Open Id Connect (2.0)",
+    "category": "Identity Terminology"
+  },
+  "OOF": {
+    "meaning": "Open Virtualization Archive",
+    "category": "General Technology"
+  },
+  "OP": {
+    "meaning": "Open Web Application Security Project",
+    "category": "Security and Compliance"
+  },
+  "OVA": {
+    "meaning": "OpenID Provider",
+    "category": "General Technology"
+  },
+  "OWASP": {
+    "meaning": "Operating Leadership Team",
+    "category": "Business"
+  },
+  "PD": {
+    "meaning": "Out of facility",
+    "category": "Business"
+  },
+  "PITA": {
+    "meaning": "Pain in the Ass",
+    "category": "Cultural"
+  },
+  "POC": {
+    "meaning": "Please Take A Look",
+    "category": "Cultural"
+  },
+  "PoP": {
+    "meaning": "Point of Presence",
+    "category": "Platform"
+  },
+  "PRTFL": {
+    "meaning": "Portfolio",
+    "category": "Engineering"
+  },
+  "PS": {
+    "meaning": "Private Saas (Software as a service); a.k.a., Appliance",
+    "category": "Auth0 Technology"
+  },
+  "PSaaS": {
+    "meaning": "Product Delivery",
+    "category": "Auth0 Roles"
+  },
+  "PTAL": {
+    "meaning": "Profesional Services",
+    "category": "General Technology"
+  },
+  "QBR": {
+    "meaning": "Proof of Concept, Point of Contact",
+    "category": "General Technology"
+  },
+  "QSRP": {
+    "meaning": "Quality, Reliability, Security, and Performance",
+    "category": "Engineering"
+  },
+  "RAIL": {
+    "meaning": "Quarterly Business Review",
+    "category": "Business"
+  },
+  "RBAC": {
+    "meaning": "Relying Party",
+    "category": "Identity Terminology"
+  },
+  "RCA": {
+    "meaning": "Request for Comment",
+    "category": "Business"
+  },
+  "RFC": {
+    "meaning": "Role Based Access Control",
+    "category": "Identity Terminology"
+  },
+  "RP": {
+    "meaning": "Rolling Action Item List",
+    "category": "Business"
+  },
+  "RTA": {
+    "meaning": "Root Cause Analysis",
+    "category": "Business"
+  },
+  "SA": {
+    "meaning": "Root Tenant Authority",
+    "category": "Auth0 Technology"
+  },
+  "SAML": {
+    "meaning": "Sales Engineer",
+    "category": "Auth0 Roles"
+  },
+  "SCIM": {
+    "meaning": "Sales KickOff",
+    "category": "Business"
+  },
+  "SDK": {
+    "meaning": "Sales Qualified Opportunities",
+    "category": "Business"
+  },
+  "SE": {
+    "meaning": "Security Assertion Markup Language",
+    "category": "Identity Terminology"
+  },
+  "SGN": {
+    "meaning": "Security information and event management",
+    "category": "Security and Compliance"
+  },
+  "SIEM": {
+    "meaning": "Security Token Service",
+    "category": "Identity Terminology"
+  },
+  "SIWA": {
+    "meaning": "Senior Leadership Team",
+    "category": "Business"
+  },
+  "SKO": {
+    "meaning": "Service Organization Controls 2",
+    "category": "Security and Compliance"
+  },
+  "SLT": {
+    "meaning": "Service Provider",
+    "category": "Identity Terminology"
+  },
+  "SMB": {
+    "meaning": "shaking my head (in disappointment)",
+    "category": "Cultural"
+  },
+  "SMH": {
+    "meaning": "Sign-in with Apple",
+    "category": "Identity Terminology"
+  },
+  "SOC2": {
+    "meaning": "Single Sign-On",
+    "category": "Identity Terminology"
+  },
+  "SOW": {
+    "meaning": "Small to Medium Business",
+    "category": "Business"
+  },
+  "SP": {
+    "meaning": "Software Development Kit",
+    "category": "General Technology"
+  },
+  "SQO": {
+    "meaning": "Solution Architect",
+    "category": "Auth0 Roles"
+  },
+  "SSO": {
+    "meaning": "Some Good News",
+    "category": "Cultural"
+  },
+  "STS": {
+    "meaning": "Statement of Work",
+    "category": "Business"
+  },
+  "T&M": {
+    "meaning": "System for Cross-domain Identity Management",
+    "category": "Identity Terminology"
+  },
+  "TAM": {
+    "meaning": "Technical Account Manager",
+    "category": "Auth0 Roles"
+  },
+  "TEI": {
+    "meaning": "Technical Leadership Team",
+    "category": "Business"
+  },
+  "TL;DR": {
+    "meaning": "Technical Support",
+    "category": "Auth0 Roles"
+  },
+  "TLS": {
+    "meaning": "Time and Materials",
+    "category": "General Technology"
+  },
+  "TLT": {
+    "meaning": "Time-based One-Time Password",
+    "category": "Identity Terminology"
+  },
+  "TOTP": {
+    "meaning": "Too Long; Didn't Read",
+    "category": "Cultural"
+  },
+  "TS": {
+    "meaning": "Total economic impact",
+    "category": "Business"
+  },
+  "U2F": {
+    "meaning": "Transport Level Security",
+    "category": "General Technology"
+  },
+  "UAF": {
+    "meaning": "Universal Authentication Framework",
+    "category": "Identity Terminology"
+  },
+  "UAT": {
+    "meaning": "Universal Login Page",
+    "category": "Auth0 Products"
+  },
+  "ULP": {
+    "meaning": "Universal Second Factor",
+    "category": "Identity Terminology"
+  },
+  "VHD": {
+    "meaning": "User Acceptance Testing",
+    "category": "Business"
+  },
+  "VM": {
+    "meaning": "Virtual Hard Drive",
+    "category": "General Technology"
+  },
+  "VMT": {
+    "meaning": "Virtual Machine",
+    "category": "General Technology"
+  },
+  "VPC": {
+    "meaning": "Virtual Private Cloud",
+    "category": "General Technology"
+  },
+  "VSP": {
+    "meaning": "Vision-Strategy-Planning",
+    "category": "Business"
+  },
+  "WDYT": {
+    "meaning": "Vision, Methods, and Targets",
+    "category": "Business"
+  },
+  "WFH": {
+    "meaning": "what do you think?",
+    "category": "Cultural"
+  },
+  "WRT": {
+    "meaning": "with regards to",
+    "category": "Cultural"
+  },
+  "WS-FED": {
+    "meaning": "Working from home",
+    "category": "Cultural"
+  },
+  "YOLO": {
+    "meaning": "You only login once",
+    "category": "Identity Terminology"
+  }
+}
