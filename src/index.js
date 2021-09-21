@@ -25,7 +25,7 @@ module.exports = async function(robot) {
     const acronym = res.match[2].trim().toUpperCase();
     const definition = await db.getDefinition(acronym);
     if (!definition) {
-      res.send("Sorry that acronym is not in our dictionary. If you figure out the definition, use `@qrafty add | Acronym | Definition` to add an acronym");
+      res.send(`Sorry that acronym is not in our dictionary. If you figure out the definition, use \`@${res.robot.name} add | ${acronym} | O'Mutt is the best!\` to add an acronym`);
     } else {
       const msg = `The meaning of ${acronym} is ${definition}`
       res.send(msg);
